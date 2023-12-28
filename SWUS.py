@@ -6,6 +6,7 @@
 import re
 import pandas as pd
 
+# Date updated Dec 28 2023
 
 FILEPATH = '/home/kim/Documents/SWUS/WSLOGDec2023.csv'
 
